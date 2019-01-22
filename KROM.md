@@ -63,7 +63,8 @@ Ainsi le but de ce projet est de retranscire sous format numerique n'importe que
 Le projet consiste à ajouter une caméra à notre objet connecté qui sera placé à l'avant d'un véhicule de la 
 même manière qu'une 'dashcam'. Celui-ci devra afficher sur un téléphone Android ou IOS, par le biais de Bluetooth, 
 les limitations de vitesse actuel. Dans l’idéal il faudrait que l’application prenne une petite partie de l’écran 
-afin que l’utilisateur puisse utiliser en même temps une application GPS.Ainsi il faudra que notre objet connecté 
+afin que l’utilisateur puisse utiliser en même temps une application GPS.
+Ainsi il faudra que notre objet connecté 
 puisse déterminer si le panneau est adressé à l’utilisateur ou non (par exemple un panneau adressé uniquement aux 
 camions ou un panneau qui s’applique uniquement pour une sortie ne devrait pas être pris en compte).
 Pour la reconnaissance des panneaux, nous utiliserons la reconnaissance d’image en utilisant le data mining. 
