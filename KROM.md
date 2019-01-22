@@ -4,9 +4,9 @@
 
 ## Membre du Groupe
 Ameni MBTIBAA -- ameni.mtibaa17@gmail.com -- github.com/amenimtibaa <br>
-André OBROCHTA -- andreobrochta@gmail.com -- github.com/aobrochta
-Lucky RAHERINIAINA -- raheriluc@gmail.com -- github.com/raheriluc
-Adlan KADRI -- adlan68@live.fr -- github.com/adlaneKadri
+André OBROCHTA -- andreobrochta@gmail.com -- github.com/aobrochta <br>
+Lucky RAHERINIAINA -- raheriluc@gmail.com -- github.com/raheriluc <br>
+Adlan KADRI -- adlan68@live.fr -- github.com/adlaneKadri <br>
 
  -----------------------------------------------------------------------------------------------------------------------------------
 
