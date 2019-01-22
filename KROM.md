@@ -1,6 +1,6 @@
 # Projet IoT
 
-## Nom du groupe: KROM
+Nom du groupe: KROM
 
 # Membre du Groupe
 ## Ameni MBTIBAA -- ameni.mtibaa17@gmail.com -- github.com/amenimtibaa
