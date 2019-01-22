@@ -37,26 +37,7 @@ useful links: (in this project we can use Google translate API or microsoft tran
  
 ------------------------------------------------------------------------------------------------------------------------------------
 
-## Projet 2: ABC
-
-#### Description
-
-Imaginer que vous venez de recevoir une lettre d'un proche dont vous ne comprenez rien 
-car l'ecriture est illisible. Ne paniquer pas d'une simple prise de photo ABC est là pour 
-dechiffre au mieux le contenu de votre lettre. 
-Ainsi le but de ce projet est de retranscire sous format numerique n'importe quel ecriture manuscrite.
-
-#### Liste des composants
-
-- un stylo bic
-- une feuille blanche
-- ESP32 / Rasbery Pi 
-- un capteur photographique
-- bouton on/off
-
------------------------------------------------------------------------------------------------------------------------------------
-
-## Projet 3: Reconnaissance et affichage des panneaux de signalisations 
+## Projet 2: Reconnaissance et affichage des panneaux de signalisations 
 
 #### Description
 
@@ -75,19 +56,6 @@ Notre objet connecté aura l’avantage d’afficher toujours les bonnes limitat
 
 #### Liste des composants
 
--ESP32 / Rasbery Pi
--Caméra
+-ESP32 / Rasbery Pi <br>
+-Caméra <br>
 -Smartphone (Android ou IOS avec Bluetooth)
-
---------------------------------------------------------------------------------------------------------------------------------------
- ## Projet 4 : Thermometre du monde
-
-#### Description 
-
-L'objectif de ce projet est de pouvoir connaitre la temperature de la capitale de chaque pays 
-par l'echange vocal avec notre machine.
-
-#### Liste des composants
-- un micro
-- une petite ecran (afficher res)
-- Rasbery pi / Esp32
