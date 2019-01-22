@@ -1,12 +1,12 @@
-#Projet IoT
+# Projet IoT
 
-##Nom du groupe: KROM
+## Nom du groupe: KROM
 
-Membre du Groupe
-Ameni MBTIBAA -- ameni.mtibaa17@gmail.com -- github.com/amenimtibaa
-André OBROCHTA -- andreobrochta@gmail.com -- github.com/aobrochta
-Lucky RAHERINIAINA -- raheriluc@gmail.com -- github.com/raheriluc
-Adlan KADRI -- adlan68@live.fr -- github.com/adlaneKadri
+# Membre du Groupe
+## Ameni MBTIBAA -- ameni.mtibaa17@gmail.com -- github.com/amenimtibaa
+## André OBROCHTA -- andreobrochta@gmail.com -- github.com/aobrochta
+## Lucky RAHERINIAINA -- raheriluc@gmail.com -- github.com/raheriluc
+## Adlan KADRI -- adlan68@live.fr -- github.com/adlaneKadri
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
